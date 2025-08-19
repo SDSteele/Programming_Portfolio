@@ -6,7 +6,7 @@ Welcome to my programming portfolio. This space highlights my hands-on developme
 
 ## 🧠 About Me
 
-I’m a full-stack developer and lifelong learner with roots in both system scripting and creative game design. I’ve worked with databases, web frameworks, and custom scripting engines for games. I’m currently building tools in Python, Flask, and C++ with aspirations of contributing to open-source games and automation tools.
+I’m a aspiring programmer/pen tester and lifelong learner with roots in both system scripting and creative game design. I’ve worked with databases, web frameworks, and custom scripting engines for games. I’m currently building tools in Python, Flask, and C++ with aspirations of contributing to open-source games and automation tools.
 
 ---
 
@@ -70,10 +70,9 @@ Custom bot scripts written for ElfBot (Tibia botting tool), showcasing automatio
 
 ---
 
-## 📫 Contact
-
-**GitHub:** [@SDSteele](https://github.com/SDSteele)  
-**Email:** your.email@example.com  
-**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+## 📫 Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shannon-steele26/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SDSteele)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:steele4cc@hmail.com)
 
 ---
