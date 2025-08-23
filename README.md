@@ -20,31 +20,31 @@ I’m a aspiring programmer/pen tester and lifelong learner with roots in both s
 
 ## 🚧 Projects
 
-### 1. 🧙 Dungeon Crawler (Text-Based)
+### 1. 🧙 Dungeon Crawler (Text-Based) (In-Development)
 **Tech:** Python  
 A terminal-based dungeon crawler featuring rooms, monsters, inventory, and turn-based combat.  
-[🔗 GitHub Repo](https://github.com/SDSteele/dungeon-crawler)
+
 
 ---
 
-### 2. 💬 Quote of the Day Web App
+### 2. 💬 Quote of the Day Web App (In-Development)
 **Tech:** Flask, HTML, CSS  
 A full-stack mini-app that serves daily quotes using Flask. Features quote management and randomized display.  
-[🔗 GitHub Repo](https://github.com/SDSteele/quote-of-the-day)
+
 
 ---
 
-### 3. 🛠️ PHP Player Stat Tracker
+### 3. 🛠️ PHP Player Stat Tracker (In-Development)
 **Tech:** PHP, MySQL  
 A simple web dashboard that tracks and displays player stats from a game database. Admin panel includes editing and role controls.  
-[🔗 GitHub Repo](https://github.com/SDSteele/player-stats)
+
 
 ---
 
-### 4. 📦 CLI To-Do App
+### 4. 📦 CLI To-Do App (In-Development)
 **Tech:** Python  
 Command-line app for managing to-do lists with file storage, tag support, and basic encryption.  
-[🔗 GitHub Repo](https://github.com/SDSteele/todo-cli)
+
 
 ---
 
