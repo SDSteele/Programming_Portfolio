@@ -51,7 +51,7 @@ Command-line app for managing to-do lists with file storage, tag support, and ba
 ### 5. 🧠 ElfBot Scripting Showcase
 **Tech:** Lua, XML  
 Custom bot scripts written for ElfBot (Tibia botting tool), showcasing automation, healing logic, and advanced targeting systems.  
-[🔗 GitHub Repo](https://github.com/SDSteele/elfbot-scripts)
+[🔗 GitHub Repo](https://github.com/SDSteele/Programming_Portfolio/tree/main/elfbot-scripts)
 
 ---
 
