@@ -1,4 +1,4 @@
-# 👨‍💻 Programming Portfolio by Shannon Steele
+# 👨‍💻 Programming Portfolio by S.D. Steele
 
 Welcome to my programming portfolio. This space highlights my hands-on development work in Python, C++, Lua, PHP, and more. I'm passionate about building games, scripts, automation tools, and web apps — always improving my skills through learning and projects.
 
