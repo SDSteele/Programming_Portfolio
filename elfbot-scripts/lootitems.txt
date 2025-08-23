@@ -1,0 +1,105 @@
+3031 1 gold bp 1
+3031 2 gold bp 2
+3031 3 gold bp 3
+3031 4 gold bp 4
+3031 5 gold bp 5
+3370 0 karmor
+4839 0 hydra egg
+3061 0 life crystal
+3072 0 wand of plague
+3062 0 mind stone
+3428 0 tower shield
+5917 0 bandana
+3420 0 demon shield
+6098 0 eye patch
+6097 0 hook
+5706 0 treasure map
+6126 0 peg leg
+6095 0 pirate shirt
+5801 0 key ring
+3084 0 protection amulet
+3053 0 time ring
+6089 0 music sheet
+5810 0 pirate doll
+3284 0 ice rapier
+3093 0 club ring
+3091 0 sword ring
+3092 0 axe ring
+3297 0 serpent sword
+3071 0 wand of inferno
+3301 0 broad sword
+3098 0 ring of healing
+3081 0 stone skin amulet
+3392 0 royal helmet
+3051 0 energy ring
+3281 0 giant sword
+3048 0 might ring
+3082 0 elven amulet
+3073 0 consmic energy wand
+3280 0 fire sword
+3052 0 life ring
+3322 0 dragon hammer
+3415 0 guardian shield
+3371 0 knight legs
+3271 0 spike sword
+3351 0 steel helmet
+3275 0 double axe
+3349 0 crossbow
+3269 0 halberd
+3357 0 plate armor
+3265 0 two handed sword
+3416 0 dragon shield
+3373 0 strange helmet
+3429 0 black shield
+3350 0 bow
+3369 0 warrior helmet
+3085 0 dragon necklace
+3432 0 ancient shield
+5899 0 turtle shell
+6087 0 music sheet
+3384 0 dark helmet
+5921 0 heaven blossom
+5922 0 holy orchid
+5878 0 minotaur leather
+3324 0 skull staff
+3367 0 viking helmet
+3353 0 iron helmet
+3354 0 brass helmet
+3046 0 magic light wand
+3410 0 plate shield
+3425 0 dwarven shield
+3413 0 battle shield
+3305 0 battle hammer
+3409 9 steel shield
+3372 0 brass legs
+3358 0 chain armor 
+3377 0 scale armor
+3266 0 battle axe
+5920 0 green dragon scale
+3723 0 white mushroom
+3033 0 small amethyst
+3032 0 small emerald
+3449 0 burst arrow
+3027 0 black pearl
+3028 0 small diamond
+3450 0 power bolt
+3029 0 small sapphire
+3042 0 sacarab coin
+3034 0 talon
+3287 0 throwing star
+5678 0 tortoise egg
+3446 0 bolts
+5901 0 wood
+5880 0 giant spider silk
+5909 0 white cloth
+5882 0 red dragon scale
+3383 0 dark armor
+3483 0 fishing rod
+3282 0 morning star
+3359 0 brass armor
+3286 0 mace 
+3367 0 viking helmet
+3557 0 plate legs
+2854 0 brown backpack
+3409 0 steel shield
+3434 0 vampire shield
