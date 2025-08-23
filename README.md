@@ -44,7 +44,7 @@ A simple web dashboard that tracks and displays player stats from a game databas
 ### 4. 📦 CLI To-Do App (In-Development)
 **Tech:** Python  
 Command-line app for managing to-do lists with file storage, tag support, and basic encryption.  
-
+[🔗 GitHub Repo](https://github.com/SDSteele/Programming_Portfolio/tree/main/CLI-To-Do%20App)
 
 ---
 
