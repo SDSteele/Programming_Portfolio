@@ -1,3 +1,7 @@
+# Remote execution (from your machine to Windows target):
+# If WinRM is enabled:
+# Invoke-Command -ComputerName TARGET -ScriptBlock { <script above> }
+
 # Lab User Cleanup - PowerShell Edition
 # Run in admin PowerShell session
 
