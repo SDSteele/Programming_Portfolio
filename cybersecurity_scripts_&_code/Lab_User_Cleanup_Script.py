@@ -1,26 +1,12 @@
-#⚡ How to Use
+#How to Use
+# Save as cleanup.py, make executable:, chmod +x cleanup.py
 
-# Save as cleanup.py
+# Run with root: sudo ./cleanup.py
 
-# Make executable:
-
-# chmod +x cleanup.py
-
-
-# Run with root:
-
-# sudo ./cleanup.py
-
-
-# Choose an action:
-
-# lock → locks all users
-
-# remove_sudo → strips admin rights
-
-# delete → deletes accounts and home dirs
-
-# skip → no action
+# Choose an action: lock → locks all users
+# - remove_sudo → strips admin rights
+# - delete → deletes accounts and home dirs
+# - skip → no action
 
 #!/usr/bin/env python3
 """
