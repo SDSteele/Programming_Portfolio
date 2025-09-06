@@ -1,3 +1,7 @@
+# How to run it remotely without copying:
+# ssh user@target "bash -" < cleanup.sh
+
+
 #!/bin/bash
 # Lab User Cleanup - Bash Edition
 # Run with: sudo ./cleanup.sh
