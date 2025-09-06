@@ -1,3 +1,27 @@
+#⚡ How to Use
+
+# Save as cleanup.py
+
+# Make executable:
+
+# chmod +x cleanup.py
+
+
+# Run with root:
+
+# sudo ./cleanup.py
+
+
+# Choose an action:
+
+# lock → locks all users
+
+# remove_sudo → strips admin rights
+
+# delete → deletes accounts and home dirs
+
+# skip → no action
+
 #!/usr/bin/env python3
 """
 Lab User Cleanup Script
